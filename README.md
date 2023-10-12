@@ -36,7 +36,7 @@ pip install requests beautifulsoup4 pandas
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/exophase-web-scraping.git
+git clone https://github.com/asad-albadi/exophase-web-scraping.git
 ```
 
 2. Change the directory to the project folder:
