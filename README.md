@@ -1,6 +1,5 @@
 # Exophase Web Scraping Project
 
-![Exophase Logo](exophase-logo.png)
 
 This Python project demonstrates web scraping using the BeautifulSoup library to extract and analyze data from Exophase user profiles. Exophase is a platform that tracks gaming achievements and playtime.
 
